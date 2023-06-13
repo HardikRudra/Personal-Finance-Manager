@@ -71,7 +71,3 @@ npm i nodemon -g
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 - **Note**: Don't forget to add [http://localhost:5000](http://localhost:5000) to axiosInstance baseUrl in App.jsx for local development
-
-# Author
-
-[Akshat Mittal](https://akshatmittal61.github.io/portfolio)
